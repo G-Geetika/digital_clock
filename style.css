@@ -1,5 +1,5 @@
 body{
-    background-image: url(bgg.jpg);
+    background-image: url(backround.jpg);
     background-position: center;
     background-repeat: no-repeat; 
     background-size: cover;
@@ -15,10 +15,10 @@ body{
 }
 #clock{
     font-family: monospace;
-    font-size: 6.5rem;
-    font-weight: bold;
-    text-align: center;
-    backdrop-filter: blur(50px);
+    font-size: 8.5rem;
+    font-weight: bolder;
+    text-align: right;
+    margin-right: 50px;
     width: 100%;
-    background-color: hsl(0,0%,100%,0.2);
+    margin-bottom: 350px;
 }
